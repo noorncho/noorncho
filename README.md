@@ -1,6 +1,14 @@
-# Hi there!!
 
-## 👋 Hi, I’m Noor
+<h2 align='center'> 👋 Hi There, I’m Noor</h2>
+
+I'm a Software Engineer from the UK. I enjoy working in Java and React, and am currently learning Python. I am always keen to learn a new language and framework.
+
+### Connect with me:
+<!--[<img align="left" alt="noorncho.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+📓 [My Portfolio](noorncho.com)
+<br />
+<br />
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorncho/?originalSubdomain=uk)
 
 ### 🖥️ Tech Stack:
 <br />
@@ -25,13 +33,6 @@
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="noorncho.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorncho/?originalSubdomain=uk)
-
-<br />
-<br />
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=noorncho&count_private=true&theme=tokyonight&showicons=true)]()
